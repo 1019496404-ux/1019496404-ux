@@ -8,5 +8,6 @@ I am an Independent Scholar, Philosopher, and Interdisciplinary Artist, focusing
 - 🎨 **Cross-Media Practice:** Algorithmic Deconstructionism, Cyber-Pathological Poetics.
 - 📚 **Publications:** Archived in [Zenodo](https://zenodo.org) & [PhilPapers](https://philpeople.org/profiles/gangbei-niu).
 - 🆔 **ORCID:** [0009-0001-3346-3867](https://orcid.org/0009-0001-3346-3867)
-
+- 🌐 **[My Complete Digital Archive (Linktree)](https://linktr.ee/GangbeiNiu)**
+  
 *"Logic is a discrete triangle, while the world is a continuous circle."*
